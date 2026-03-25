@@ -1,18 +1,35 @@
-## Hi there 👋
+### Hi, I'm Aditya 👋
+_Lead Data Engineer · Seattle, WA · 10+ years building data platforms at scale_
 
-<!--
-**adityajill/adityajill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 **I'm currently working on**
+Enterprise-scale **cloud migration & data platform modernization** at UnitedHealth Group — migrating legacy workloads to **Snowflake + Databricks on Azure**, designing **real-time Kafka streaming pipelines** on Kubernetes processing 10TB+ daily, and deploying **AI agents** to automate data lineage analysis across 200+ models.
+
+🌱 **I'm currently learning**
+**Advanced AI agent orchestration** — multi-agent frameworks, tool-use chaining, and embedding LLM reasoning directly into production data workflows. Also deepening expertise in **event-driven system design** with Kafka + Flink.
+
+👯 **I'm looking to collaborate on**
+Projects at the intersection of **data engineering, cloud architecture & LLMs** — intelligent pipeline monitoring, AI-driven schema evolution, real-time streaming analytics, or open-source data quality tooling.
+
+🤔 **I'm looking for help with**
+**Agentic observability** — tracing, evaluating, and trusting decisions made by LLM agents inside critical data pipelines. Also exploring cost-efficient architectures for high-throughput Kafka + Spark workloads on cloud.
+
+💬 **Ask me about**
+⚡ **Real-time streaming** — Kafka · Kubernetes · PySpark · 10TB+/day pipelines
+☁️ **Cloud migration** — Snowflake · Azure Synapse · Databricks · legacy → cloud
+🏗️ **Backend architecture/System design** — designed microservices backend for an entire payment department, actively used by ***2,000+ claim examiners, adjusters & billing specialists***
+🤖 **AI & LLMs** — agents · NLP · topic modeling · LLM-powered automation
+💸 **Cost optimization** — cut Snowflake spend from $1.5M → $630K (58% savings)
+🔧 **DevOps & IaC** — Terraform · GitHub Actions · CI/CD · Airflow orchestration
+
+📫 **How to reach me**
+jillellamudi.aditya@gmail.com · [LinkedIn](YOUR_LINKEDIN_URL) · Seattle, WA
+
+😄 **Pronouns:** he/him
+
+⚡ **Fun fact**
+I've migrated petabyte-scale healthcare data to the cloud, built Kafka pipelines that never sleep, and taught AI agents to map data lineage so engineers don't have to. All without a single HIPAA violation. 🏥
 
 
 
