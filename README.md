@@ -15,7 +15,8 @@ Projects at the intersection of **data engineering, cloud architecture & LLMs** 
 🤔 **I'm looking for help with**
 **Agentic observability** tracing, evaluating, and trusting decisions made by LLM agents inside critical data pipelines. Also exploring cost-efficient architectures for high-throughput Kafka + Spark workloads on cloud.
 
-💬 **Ask me about**
+💬 *Ask me about*
+
 ⚡ **Real-time streaming** — Kafka · Kubernetes · PySpark · 10TB+/day pipelines
 
 ☁️ **Cloud migration** — Snowflake · Azure Synapse · Databricks · legacy → cloud
