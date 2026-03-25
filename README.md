@@ -15,13 +15,13 @@ Projects at the intersection of **data engineering, cloud architecture & LLMs** 
 🤔 **I'm looking for help with**
 **Agentic observability** tracing, evaluating, and trusting decisions made by LLM agents inside critical data pipelines. Also exploring cost-efficient architectures for high-throughput Kafka + Spark workloads on cloud.
 
-💬 *Ask me about*
+💬 **Ask me about**
 
 ⚡ **Real-time streaming** — Kafka · Kubernetes · PySpark · 10TB+/day pipelines
 
 ☁️ **Cloud migration** — Snowflake · Azure Synapse · Databricks · legacy → cloud
 
-🏗️ **Backend architecture/System design** — designed microservices backend for an entire payment department, actively used by ***2,000+ claim examiners, adjusters & billing specialists***
+🏗️ **Backend architecture/System design** — designed microservices backend for an entire payment department, actively used by 2,000+ claim examiners, adjusters & billing specialists
 
 🤖 **AI & LLMs** — agents · NLP · topic modeling · LLM-powered automation
 
@@ -30,7 +30,7 @@ Projects at the intersection of **data engineering, cloud architecture & LLMs** 
 🔧 **DevOps & IaC** — Terraform · GitHub Actions · CI/CD · Airflow orchestration
 
 📫 **How to reach me**
-jillellamudi.aditya@gmail.com · [LinkedIn](YOUR_LINKEDIN_URL) · Seattle, WA
+jillellamudi.aditya@gmail.com · [LinkedIn](YOUR_LINKEDIN_URL)
 
 😄 **Pronouns:** he/him
 
