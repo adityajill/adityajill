@@ -30,7 +30,7 @@ Projects at the intersection of **data engineering, cloud architecture & LLMs** 
 🔧 **DevOps & IaC** — Terraform · GitHub Actions · CI/CD · Airflow orchestration
 
 📫 **How to reach me**
-jillellamudi.aditya@gmail.com · [LinkedIn](YOUR_LINKEDIN_URL)
+jillellamudi.aditya@gmail.com
 
 😄 **Pronouns:** he/him
 
