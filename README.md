@@ -1,5 +1,5 @@
 ### Hi, I'm Aditya 👋
-_Lead Data Engineer · Seattle, WA · 10+ years building data platforms at scale_
+_Lead Data Engineer · 10+ years building data platforms at scale_
 
 ---
 
