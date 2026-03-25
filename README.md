@@ -17,10 +17,15 @@ Projects at the intersection of **data engineering, cloud architecture & LLMs** 
 
 💬 **Ask me about**
 ⚡ **Real-time streaming** — Kafka · Kubernetes · PySpark · 10TB+/day pipelines
+
 ☁️ **Cloud migration** — Snowflake · Azure Synapse · Databricks · legacy → cloud
+
 🏗️ **Backend architecture/System design** — designed microservices backend for an entire payment department, actively used by ***2,000+ claim examiners, adjusters & billing specialists***
+
 🤖 **AI & LLMs** — agents · NLP · topic modeling · LLM-powered automation
+
 💸 **Cost optimization** — cut Snowflake spend from $1.5M → $630K (58% savings)
+
 🔧 **DevOps & IaC** — Terraform · GitHub Actions · CI/CD · Airflow orchestration
 
 📫 **How to reach me**
