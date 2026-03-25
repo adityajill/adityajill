@@ -4,16 +4,16 @@ _Lead Data Engineer · 10+ years building data platforms at scale_
 ---
 
 🔭 **I'm currently working on**
-Enterprise-scale **cloud migration & data platform modernization** at UnitedHealth Group — migrating legacy workloads to **Snowflake + Databricks on Azure**, designing **real-time Kafka streaming pipelines** on Kubernetes processing 10TB+ daily, and deploying **AI agents** to automate data lineage analysis across 200+ models.
+Enterprise-scale **cloud migration & data platform modernization** at UnitedHealth Group migrating legacy workloads to **Snowflake + Databricks on Azure**, designing **real-time Kafka streaming pipelines** on Kubernetes processing 10TB+ daily, and deploying **AI agents** to automate data lineage analysis across 200+ models.
 
 🌱 **I'm currently learning**
-**Advanced AI agent orchestration** — multi-agent frameworks, tool-use chaining, and embedding LLM reasoning directly into production data workflows. Also deepening expertise in **event-driven system design** with Kafka + Flink.
+**Advanced AI agent orchestration** multi-agent frameworks, tool-use chaining, and embedding LLM reasoning directly into production data workflows. Also deepening expertise in **event-driven system design** with Kafka + Flink.
 
 👯 **I'm looking to collaborate on**
-Projects at the intersection of **data engineering, cloud architecture & LLMs** — intelligent pipeline monitoring, AI-driven schema evolution, real-time streaming analytics, or open-source data quality tooling.
+Projects at the intersection of **data engineering, cloud architecture & LLMs** intelligent pipeline monitoring, AI-driven schema evolution, real-time streaming analytics, or open-source data quality tooling.
 
 🤔 **I'm looking for help with**
-**Agentic observability** — tracing, evaluating, and trusting decisions made by LLM agents inside critical data pipelines. Also exploring cost-efficient architectures for high-throughput Kafka + Spark workloads on cloud.
+**Agentic observability** tracing, evaluating, and trusting decisions made by LLM agents inside critical data pipelines. Also exploring cost-efficient architectures for high-throughput Kafka + Spark workloads on cloud.
 
 💬 **Ask me about**
 ⚡ **Real-time streaming** — Kafka · Kubernetes · PySpark · 10TB+/day pipelines
